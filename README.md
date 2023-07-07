@@ -1,6 +1,6 @@
 ### Olá, eu sou Michael Maia👋
 
-Sou um estudante de ADS e Engenharia de Qualidade de Software e atualmente trabalhando como Designer Gráfico freelancer, apaixonado por tecnologia e com forte experiência em garantir qualidade em produtos digitais. Estou buscando uma transição de carreira para a área de QA e desenvolver ainda mais minhas habilidades técnicas e de liderança.
+Estudante de ADS e Engenharia de Qualidade de Software, atualmente trabalho como Designer Gráfico freelancer, apaixonado por tecnologia e com forte experiência em garantir qualidade em produtos digitais. Estou buscando uma transição de carreira para a área de QA e desenvolver ainda mais minhas habilidades técnicas e de liderança.
 
 ##
 
