@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá, eu sou Michael Maia👋
 
-<!--
-**qamichaelmaia/qamichaelmaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de ADS e Engenharia de Qualidade de Software e atualmente trabalhando como Designer Gráfico freelancer, apaixonado por tecnologia e com forte experiência em garantir qualidade em produtos digitais. Estou buscando uma transição de carreira para a área de QA e desenvolver ainda mais minhas habilidades técnicas e de liderança.
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/qamichaelmaia">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=qamichaelmaia&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qamichaelmaia&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
+
+##
+
+<div>
+<a href= "mailto: contatomichaelmaia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href= "https://www.linkedin.com/in/qamichael/" target = _blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target = _blank "></a>
+</div>
+
+
