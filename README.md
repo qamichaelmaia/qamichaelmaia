@@ -1,14 +1,17 @@
-### Olá, eu sou Michael Maia👋
+### Hi 👋 I'm Michael Maia, and Welcome to my Github !😊
 
-Estudante de ADS e Engenharia de Qualidade de Software, atualmente trabalho como Designer Gráfico freelancer, apaixonado por tecnologia e com forte experiência em garantir qualidade em produtos digitais. Estou buscando uma transição de carreira para a área de QA e desenvolver ainda mais minhas habilidades técnicas e de liderança.
+I'm QA and student Software Analysis and Development.
+
+- 🌱 I'm always in constant learning.
+- 📫 How to reach me: contatomichaelmaia@gmail.com
 
 ##
 <div> 
     <a href="https://github.com/qamichaelmaia">
       <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=qamichaelmaia&show_icons=true&theme=dark" />
     </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img height=160  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qamichaelmaia&layout=compact&langs_count=8&card_width=320&theme=dark" />
+    <a href="https://github.com/qamichaelmaia/convoychat">
+      <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qamichaelmaia&layout=compact&langs_count=8&card_width=320&theme=dark" />
     </a>
 </div>
 
