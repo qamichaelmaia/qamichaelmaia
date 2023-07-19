@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Michael Maia, and Welcome to my Github !😊
 
-I'm QA and student Software Analysis and Development.
+I'm QA and student Software Analysis and Development. 📚
 
 - 🌱 I'm always in constant learning.
 - 📫 How to reach me: contatomichaelmaia@gmail.com
