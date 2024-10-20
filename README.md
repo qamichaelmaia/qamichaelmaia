@@ -1,10 +1,11 @@
-<div align="center">
+### Hi 👋 I'm Michael Maia, and Welcome to my Github !😊
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=23D96C&size=35&center=true&vCenter=true&width=1000&duration=5000&pause=2000&lines=Hello,+I'm+Michael+Maia)](https://git.io/typing-svg)
+I'm QA and student Software Analysis and Development. 📚
 
-</div>
+- 🌱 I'm always in constant learning.
+- 📫 How to reach me: contatomichaelmaia@gmail.com
 
-<div align="center">
+##
     
 <div> 
     <a href="https://github.com/qamichaelmaia">
@@ -16,7 +17,6 @@
 </div>
 
 
-<div align="center">
 
 ## 🛠️  Tools and Languages
 
