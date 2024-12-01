@@ -19,10 +19,10 @@ I'm QA and student Software Analysis and Development. 📚
 
 
 ## 🛠️  Tools and Languages
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cypress,playwright&titles=true,git&theme=light)
+[![My Skills](https://skillicons.dev/icons?i=selenium,androidstudio,postman,graphql,jenkins,mysql,docker,nodejs,github,githubactions,git&theme=light )](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=cypress,selenium,androidstudio,postman,graphql,jenkins,mysql,docker,nodejs,github,githubactions,git&theme=light )](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=js,cs,java,py,dotnet&theme=light )](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,py,java,cs,dotnet&theme=light )](https://skillicons.dev)  
 
 </div>
 
