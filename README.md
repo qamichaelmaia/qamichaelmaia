@@ -32,6 +32,9 @@ I'm QA and student Software Analysis and Development. 📚
   <a href="mailto:contatomichaelmaia@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-404040?style=for-the-badge&logo=gmail&logoColor=red"></a>
   <a href="https://www.linkedin.com/in/qamichael/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/5571999348625" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-2c9b55?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+      <a href="https://qamichaelmaia.github.io" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=dev.to&logoColor=white">
+  </a>
 </div>
 
 
