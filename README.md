@@ -1,4 +1,4 @@
-# Olá 👋 Eu sou o Michael Maia — *Bem-vindo(a) ao meu GitHub!* 😊
+# Olá 👋 Eu sou o Michael Maia — *Bem-vindo(a) ao meu GitHub!*
 Sou QA, apaixonado por qualidade de software, com foco em testes manuais e automatizados (API, UI e Mobile). Atualmente, curso Análise e Desenvolvimento de Sistemas pela VINCIT e sou formado em Engenharia de Qualidade de Software pela EBAC.
 
 - 💼 Atuei como QA na Pris, em um projeto de gestão de investimentos, contribuindo para a redução de 33% de bugs em produção
