@@ -1,9 +1,17 @@
-### Hi 👋 I'm Michael Maia, and Welcome to my Github !😊
+# Olá 👋 Eu sou o Michael Maia — *Bem-vindo(a) ao meu GitHub!* 😊
+Sou QA, apaixonado por qualidade de software, com foco em testes manuais e automatizados (API, UI e Mobile). Atualmente, curso Análise e Desenvolvimento de Sistemas pela VINCIT e sou formado em Engenharia de Qualidade de Software pela EBAC.
 
-I'm QA and student Software Analysis and Development. 📚
+- 💼 Atuei como QA na Pris, em um projeto de gestão de investimentos, contribuindo para a redução de 33% de bugs em produção
 
-- 🌱 I'm always in constant learning.
-- 📫 How to reach me: contatomichaelmaia@gmail.com
+- 🤝 Voluntário no projeto Pipoca Ágil, garantindo a qualidade de um app de saúde com testes funcionais e conformidade regulatória (web e mobile)
+
+- 🔍 Testador freelancer na Crowdtest, com foco em testes funcionais, exploratórios, automação e usabilidade em projetos como Serasa, Natura, C&A e Meu Patrocínio
+
+- ⭐ 91% de avaliações 5 estrelas e identificação de falhas críticas em fluxos de pagamento
+
+- 🚀 Sempre em aprendizado contínuo e aberto a novos desafios na área de QA
+
+- 📫 Contato: contatomichaelmaia@gmail.com
 
 ##
     
