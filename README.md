@@ -1,7 +1,9 @@
 # Olá 👋 Eu sou o Michael Maia — *Bem-vindo(a) ao meu GitHub!*
 Sou QA, apaixonado por qualidade de software, com foco em testes manuais e automatizados (API, UI e Mobile). Atualmente, curso Análise e Desenvolvimento de Sistemas pela VINCIT e sou formado em Engenharia de Qualidade de Software pela EBAC.
 
-- 💼 Atuei como QA na Pris, em um projeto piloto de gestão de Remuneração Variável e ILP, contribuindo para a redução de 33% de bugs em produção
+- 💼 QA Pleno na Checkmob (web, android & iOS)
+
+- 📈 Atuei como QA na Pris, em um projeto piloto de gestão de Remuneração Variável e ILP, contribuindo para a redução de 33% de bugs em produção
 
 - 🤝 Voluntário no projeto Pipoca Ágil, garantindo a qualidade de um app de saúde com testes funcionais e conformidade regulatória (web e mobile)
 
