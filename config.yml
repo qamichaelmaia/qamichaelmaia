@@ -76,13 +76,13 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "qamichaelmaia/playground-for-qa"
+  - repo: "qamichaelmaia/QA Playground"
     arm: 0
     description: "QA playground with practical test and automation content."
-  - repo: "qamichaelmaia/api-test-automation"
+  - repo: "qamichaelmaia/API Test Automation"
     arm: 1
     description: "API automation project focused on quality, reliability, and scale."
-  - repo: "qamichaelmaia/application-mobile-test"
+  - repo: "qamichaelmaia/Application Mobile Test"
     arm: 0
     description: "Mobile testing automation scenarios and validation strategies."
 
